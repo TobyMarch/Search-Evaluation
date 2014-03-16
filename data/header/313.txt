@@ -1,0 +1,8 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2
+Content-Type=text/html; charset=UTF-8
+Date=Mon, 05 Nov 2012 19:34:00 GMT
+Connection=Keep-Alive
+Set-Cookie=X-Mapping-ikjeafha=58C63974B09ECD12A25B019357A06EAB; path=/
+Set-Cookie=X-Mapping-ikjeafha=58C63974B09ECD12A25B019357A06EAB; path=/
+Content-Length=7755

@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:30:07 GMT
+Server=Apache
+Content-Type=text/html;charset=UTF-8
+tr-request-id=UJgTvgpcqkoAAC0564QAAAA2
+from-tr=trafrt012iad.io.askjeeves.info
+Set-Cookie=JSESSIONID=7506677942CCCD3BB5ED81EDCA9A77F5; Path=/
+Set-Cookie=dmid=d20d220e-0a5c-5843-0b37-d0cfbc654a39; Expires=Wed, 20-Sep-2017 19:30:06 GMT; Path=/
+Set-Cookie=user="o=15735&l=dir"; Version=1; Domain=.bloglines.com; Path=/
+Set-Cookie=oo=15735; Domain=.bloglines.com; Expires=Mon, 05-Nov-2012 20:00:07 GMT; Path=/
+Keep-Alive=timeout=30, max=9
+Connection=Keep-Alive
+Transfer-Encoding=chunked

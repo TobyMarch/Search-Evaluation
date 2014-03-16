@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:54 GMT
+Server=Apache
+Cache-Control=private
+Content-Type=text/html;charset=UTF-8
+Set-Cookie=cu.wz=0; Domain=.ask.co.uk; Expires=Tue, 05-Nov-2013 19:33:54 GMT; Path=/
+Set-Cookie=seoQuizzGSL=2; Domain=www.ask.co.uk; Path=/
+Set-Cookie=oo=2572; Domain=.ask.co.uk; Expires=Mon, 05-Nov-2012 20:03:54 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.ask.co.uk; Expires=Tue, 05-Nov-2013 19:33:54 GMT; Path=/
+Set-Cookie=user=o=2572&l=dir; Domain=.ask.co.uk; Path=/
+Keep-Alive=timeout=30, max=9
+Connection=Keep-Alive
+Transfer-Encoding=chunked

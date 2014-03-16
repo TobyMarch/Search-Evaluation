@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:17 GMT
+Server=Server
+x-amz-id-1=07ZCGYT97A2ZZ1T7D8C3
+p3p=policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-amz-id-2=hVuKVoLuPv1EjIg39PeIAv4eaT5mVLAkyeQt7YybBo68eavX6is/+E1/adWOVDs4
+Vary=Accept-Encoding,User-Agent
+Content-Type=text/html; charset=ISO-8859-1
+Set-cookie=session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie=session-id=000-0000000-0000000; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding=chunked

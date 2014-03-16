@@ -1,0 +1,17 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=private, no-cache, no-store, must-revalidate
+Expires=Sat, 01 Jan 2000 00:00:00 GMT
+P3P=CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma=no-cache
+X-Content-Type-Options=nosniff
+X-Frame-Options=DENY
+X-XSS-Protection=1; mode=block
+Set-Cookie=datr=FBSYUCeXwo8WeyT193LriikS; expires=Wed, 05-Nov-2014 19:31:32 GMT; path=/; domain=.facebook.com; httponly
+Set-Cookie=reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie=reg_fb_gate=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPink-Floyd-music%2F134288296614820; path=/; domain=.facebook.com
+Set-Cookie=reg_fb_ref=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPink-Floyd-music%2F134288296614820; path=/; domain=.facebook.com
+Content-Type=text/html; charset=utf-8
+X-FB-Debug=4DVDDHjoaX8phSsPHF3vV/0QI+Rx0yWBd9X4Cx+5sNE=
+Date=Mon, 05 Nov 2012 19:31:32 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive

@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:28:35 GMT
+Server=Apache
+X-Powered-By=PHP/5.3.14
+Set-Cookie=PHPSESSID=1o9rn7s0jv7nhbmtahqqvohki077kip4; expires=Mon, 12-Nov-2012 19:28:35 GMT; path=/; domain=www.movieweb.com
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Set-Cookie=vp=1352143865; expires=Mon, 05-Nov-2012 19:31:05 GMT; path=/; domain=www.movieweb.com
+Vary=Accept-Encoding
+Keep-Alive=timeout=3, max=499
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=max-age=10
+Date=Mon, 05 Nov 2012 19:26:28 GMT
+Content-Type=text/html; charset=UTF-8
+Last-Modified=Mon, 05 Nov 2012 19:24:58 GMT
+Accept-Ranges=bytes
+ETag="0a1143e8bbbcd1:731"
+Server=Microsoft-IIS/6.0
+FROM=N7DOLDISWEB03
+P3P=: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
+Set-Cookie=SWID=A9857C6F-352F-4D49-A956-DBF5D0D1D29D; path=/; expires=Mon, 05-Nov-2032 19:26:28 GMT; domain=.go.com;
+Cache-Expires=Mon, 05 Nov 2012 19:28:18 GMT
+Content-Length=18096

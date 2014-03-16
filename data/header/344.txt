@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Cache-Control=private
+Content-Type=text/html;charset=UTF-8
+Date=Mon, 05 Nov 2012 19:34:44 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=sid=UJgU1EC9Y9tDlION; Domain=reference.com; Expires=Mon, 05-Nov-2012 20:04:44 GMT; Path=/
+Set-Cookie=cu.wz=0; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:34:44 GMT; Path=/
+Set-Cookie=recsrch=anne+of+green+gables+kindred+spirit+quotes; Domain=reference.com; Expires=Sun, 03-Feb-2013 19:34:44 GMT; Path=/
+Set-Cookie=dcc=*~*~*~*~*~*~*~*~; Domain=reference.com; Expires=Tue, 05-Nov-2013 19:34:44 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:34:44 GMT; Path=/
+Set-Cookie=bid=UJgU1EC9Y9tjQssf; Domain=reference.com; Expires=Wed, 05-Nov-2014 19:34:44 GMT; Path=/

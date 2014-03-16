@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=A06894B5E5A0E7AA43601E0DA304AD7A; Path=/
+Set-Cookie=dmid=d20c66ed-0a5c-5843-0b37-d0cf14f009fe; Expires=Wed, 20-Sep-2017 19:29:19 GMT; Path=/
+Set-Cookie=user="o=25&l=dir"; Version=1; Domain=.soundsandlyrics.com; Path=/
+Set-Cookie=oo=25; Domain=.soundsandlyrics.com; Expires=Mon, 05-Nov-2012 19:59:19 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:29:18 GMT

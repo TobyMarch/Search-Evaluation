@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Server=Lotus-Domino
+Date=Mon, 05 Nov 2012 19:31:55 GMT
+Last-Modified=Mon, 05 Nov 2012 19:31:53 GMT
+Expires=Tue, 01 Jan 1980 06:00:00 GMT
+Content-Type=text/html; charset=US-ASCII
+Content-Length=12288
+X-Cache-Lookup=HIT from www.sing365.com:80
+Connection=keep-alive

@@ -1,0 +1,22 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Content-Type-Options=nosniff
+Content-language=en
+Last-Modified=Fri, 19 Oct 2012 08:20:00 GMT
+Content-Type=text/html; charset=utf-8
+X-Cacheable=YES
+Content-Length=134469
+Accept-Ranges=bytes
+Date=Mon, 05 Nov 2012 19:28:24 GMT
+Connection=keep-alive
+X-Served-By=cache-s24-SJC, cache-v26-ASH
+X-Cache=MISS, HIT
+X-Cache-Hits=0, 3
+X-Timer=S1352081276.774018288,VS0,VS36,VE712,VE62428145
+Vary=Accept-Encoding,Cookie
+Set-Cookie=wikia_beacon_id=htsCAjRE2B; domain=.wikia.com; path=/;
+Set-Cookie=Geo={%22city%22:%22Ithaca%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+X-Age=62427
+Set-Cookie=varnish-stat=/server/ASH/cache-v26-ASH/(null)/; path=/
+Set-Cookie=loadtime=S1352081276.774018288,VS0,VS36,VE712,VE62428145; path=/
+Cache-Control=private, s-maxage=0, max-age=0, must-revalidate

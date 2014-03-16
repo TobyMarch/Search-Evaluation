@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=58DB747F0CD5FB3F57277E82981A86CA; Path=/
+Set-Cookie=dmid=d20b0eea-0a5c-5842-2cee-1aa2bcc35cd9; Expires=Wed, 20-Sep-2017 19:27:51 GMT; Path=/
+Set-Cookie=user="o=24&l=dir"; Version=1; Domain=.inertainment.com; Path=/
+Set-Cookie=oo=24; Domain=.inertainment.com; Expires=Mon, 05-Nov-2012 19:57:51 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:27:50 GMT

@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:14 GMT
+Server=Squeegit/1.2.5 (3_sir)
+Set-Cookie=CookieStatus=COOKIE_OK; path=/; domain=angelfire.lycos.com; expires=Tue, 05-Nov-2013 19:33:14 GMT
+Vary=*
+X-Server-IP=209.202.245.155
+P3P=policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html

@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=max-age=300
+Date=Mon, 05 Nov 2012 19:26:38 GMT
+Content-Length=115443
+Content-Type=text/html;charset=UTF-8
+Last-Modified=Mon, 05 Nov 2012 19:26:37 GMT
+Accept-Ranges=bytes
+ETag=W/"80d416798bbbcd1:e994"
+Server=Microsoft-IIS/6.0
+P3P=CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
+Cache-Expires=Mon, 05 Nov 2012 19:27:37 GMT
+X-UA-COMPATIBLE=IE=EmulateIE7

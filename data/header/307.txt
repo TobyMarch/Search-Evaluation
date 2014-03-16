@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=AEA5D9091F6A2DDF857379BB1FD9B713; Path=/
+Set-Cookie=dmid=d21095c9-0a5c-5842-2cee-1aa288b2a422; Expires=Wed, 20-Sep-2017 19:33:53 GMT; Path=/
+Set-Cookie=user="o=102552&l=dir"; Version=1; Domain=.directhit.com; Path=/
+Set-Cookie=oo=102552; Domain=.directhit.com; Expires=Mon, 05-Nov-2012 20:03:53 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:33:52 GMT

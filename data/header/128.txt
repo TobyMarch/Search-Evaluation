@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:28:40 GMT
+Server=Apache
+Accept-Ranges=bytes
+Cache-Control=no-cache
+Expires=Mon, 05 Nov 2012 19:28:40 GMT
+Vary=Accept-Encoding
+Content-Type=text/html
+Content-Length=9636
+Connection=keep-alive

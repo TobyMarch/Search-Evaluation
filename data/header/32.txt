@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Date=Mon, 05 Nov 2012 19:26:14 GMT
+Expires=Sat, 6 May 1995 12:00:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Set-Cookie=ServerID=1249; Path=/
+Set-Cookie=JSESSIONID=4D1F490F76542113BF1A26CF97A43C50.localhost; Path=/
+Content-Type=text/html;charset=ISO-8859-1
+Content-Language=en-US
+Vary=User-Agent,Accept-Encoding
+Connection=close

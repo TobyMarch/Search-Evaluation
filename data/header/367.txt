@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:35:42 GMT
+Server=Apache/2.2.22 (Unix) FrontPage/5.0.2.2635
+X-Powered-By=PHP/5.3.8
+X-Pingback=http://www.katemcquillen.com/xmlrpc.php
+Keep-Alive=timeout=5, max=399
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

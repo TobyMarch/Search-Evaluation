@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2.21 (Unix) PHP/5.3.10
+X-Powered-By=PHP/5.3.10
+Content-Type=text/html; charset=utf-8
+Expires=Mon, 05 Nov 2012 19:27:28 GMT
+Cache-Control=max-age=0, no-cache, no-store
+Pragma=no-cache
+Date=Mon, 05 Nov 2012 19:27:28 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=IGNMEDIA_NETWORK=dc13bf383d6855d8d3fc562ed371e128; path=/; domain=.ign.com
+Set-Cookie=i18n-ccpref=9-US-www-1; expires=Tue, 06-Nov-2012 19:24:48 GMT; path=/; domain=.ign.com

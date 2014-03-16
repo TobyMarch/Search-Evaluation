@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:28:02 GMT
+Server=Apache
+X-Powered-By=PHP/5.2.6
+Cache-Control=max-age=60
+Expires=Mon, 05 Nov 2012 19:29:02 GMT
+Keep-Alive=timeout=2, max=24
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html
+Set-Cookie=PixPersist=1297698114.20480.0000; expires=Mon, 05-Nov-2012 23:28:02 GMT; path=/

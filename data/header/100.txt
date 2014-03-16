@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:28:03 GMT
+Server=Apache
+Content-Type=text/html;charset=UTF-8
+tr-request-id=UJgTRApcqkoAAC05uhUAAAAj
+from-tr=trafrt012iad.io.askjeeves.info
+Set-Cookie=JSESSIONID=B69D19F087C0157F66A36267E84C90AA; Path=/
+Set-Cookie=dmid=d20b42bf-0a5c-5843-0b37-d0cfbe9813e3; Expires=Wed, 20-Sep-2017 19:28:04 GMT; Path=/
+Set-Cookie=user="o=1712&l=dir"; Version=1; Domain=.teoma.com; Path=/
+Set-Cookie=oo=1712; Domain=.teoma.com; Expires=Mon, 05-Nov-2012 19:58:04 GMT; Path=/
+Keep-Alive=timeout=30, max=9
+Connection=Keep-Alive
+Transfer-Encoding=chunked

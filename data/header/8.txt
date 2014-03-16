@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-GU-jas=02!resin-tcp-connection-*:8080-247
+Vary=Accept-Encoding,User-Agent
+X-GU-gen-jas=05
+Content-Type=text/html; charset=UTF-8
+P3P=CP="CAO CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa CONa TELa OUR IND ONLi UNI PURi NAV STA PRE LOC"
+Date=Mon, 05 Nov 2012 19:25:34 GMT
+X-GU-PageRenderer=Hypercharger
+Keep-Alive=timeout=5, max=94
+Transfer-Encoding=chunked
+X-GU-tm=01
+Connection=Keep-Alive
+X-GU-httpd=10

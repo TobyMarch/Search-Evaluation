@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:34 GMT
+Server=Apache/2.2.15
+X-Powered-By=PHP/5.3.3
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Set-Cookie=SongfactsUser=aq51v7jt883rr0b5pfvitd32e1; path=/
+Keep-Alive=timeout=3, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:32:07 GMT
+Server=gwiseguy/2.0
+X-Content-Type-Options=nosniff
+Set-Cookie=use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; path=/; domain=.youtube.com
+Set-Cookie=VISITOR_INFO1_LIVE=_nf3oNZxwAI; path=/; domain=.youtube.com; expires=Wed, 03-Jul-2013 19:32:07 GMT
+Set-Cookie=recently_watched_video_id_list=1a489caaebd7e41720f614e0035d36b8WwEAAABzCwAAAElTZUd5b2YxSk9J; path=/; domain=.youtube.com
+Expires=Tue, 27 Apr 1971 19:44:06 EST
+Cache-Control=no-cache
+P3P=CP="This is not a P3P policy! See //support.google.com/accounts/bin/answer.py?answer=151657&hl=en-US for more info."
+Content-Type=text/html; charset=utf-8
+X-Frame-Options=SAMEORIGIN
+X-XSS-Protection=1; mode=block
+Transfer-Encoding=chunked

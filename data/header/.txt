@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=80770940A2468CAA336DBEF059D9F154; Path=/
+Set-Cookie=dmid=d20df20b-0a5c-5843-0b37-d0cf0110a288; Expires=Wed, 20-Sep-2017 19:31:00 GMT; Path=/
+Set-Cookie=user="o=102855&l=dir"; Version=1; Domain=.catchfitness.com; Path=/
+Set-Cookie=oo=102855; Domain=.catchfitness.com; Expires=Mon, 05-Nov-2012 20:01:00 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:31:00 GMT

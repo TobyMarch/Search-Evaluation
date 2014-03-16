@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 403 Forbidden
+Date=Mon, 05 Nov 2012 19:25:51 GMT
+Server=Server
+Cache-Control=private
+nnCoection=close
+Content-Type=text/html
+Set-Cookie=uu=BCYqHRUS_0YK-wGc6DU7wg-FULVACQcHQwCPzW1yIuZJF_HwPB0EzI9DbUPlQN7bV9KWRHJOH0Md48RO1MliJAN5I-TW-lgyxVGj3nrvdx-zcavg4-KsE1KhrQRlaokxg769spO4TNHZK_2Xl2WPR04HbatoMeZ3joL-fFXmd0Jv8N67QyBEmi4gENy98stsYMxmZMLu9JbhlR2499_Mj5G-MFMZYIzeaHINfLaPbkIZrlArM7O6rRO-iygrSWggJ5SL;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Vary=Accept-Encoding,User-Agent
+P3P=policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding=chunked

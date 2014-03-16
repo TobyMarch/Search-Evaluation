@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type=text/html
+Date=Mon, 05 Nov 2012 19:32:53 GMT
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Pragma=no-cache
+Server=Apache
+Set-Cookie=BR_SID=uJJPcbZBpbrB0z%2CoHiTJdIPwem2; path=/
+Vary=Accept-Encoding
+X-id=i-7db68e4e
+transfer-encoding=chunked
+Connection=keep-alive

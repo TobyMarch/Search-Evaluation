@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:40 GMT
+Server=Server
+Etag="5a11852ed9c94373a4e49c4d86c724a6"
+X-Runtime=1.05503
+Content-Type=text/html; charset=UTF-8
+Content-Length=20981
+Cache-Control=private, max-age=0, must-revalidate
+nnCoection=close
+Set-Cookie=_learning_session=BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMjVjODEwYTQ2NjUwNjBkNjFl%250AYTEzNzlkZmY1NDhiOWM%253D--d61289cce8349fbbdb09fac417f149a086e5fcba; path=/; expires=Wed, 01 Jan 2014 00:00:00 GMT; secure
+Vary=Accept-Encoding,User-Agent

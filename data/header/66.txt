@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Content-Type=text/html; charset=UTF-8
+Cache-Control=max-age=532
+Expires=Mon, 05 Nov 2012 19:36:01 GMT
+Date=Mon, 05 Nov 2012 19:27:09 GMT
+Content-Length=17716
+Connection=keep-alive
+Set-Cookie=edgelong=-76.4974
+Set-Cookie=edgelat=42.4320
+Set-Cookie=edgestate=NY
+Set-Cookie=edgecity=ITHACA
+Set-Cookie=edgezip=14850

@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:31:06 GMT
+Server=Apache
+Expires=Mon, 26 Jul 1997 05:00:00 GMT
+Pragma=no-cache
+Set-Cookie=exp_last_visit=1036783867; expires=Tue, 05-Nov-2013 19:31:07 GMT; path=/
+Set-Cookie=exp_last_activity=1352143867; expires=Tue, 05-Nov-2013 19:31:07 GMT; path=/
+Set-Cookie=exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A23%3A%22event%2Fthe-music-of-abba%22%3B%7D; path=/
+Last-Modified=Mon, 05 Nov 2012 19:31:07 GMT
+Keep-Alive=timeout=5, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

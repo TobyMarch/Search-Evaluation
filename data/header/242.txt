@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Set-Cookie=RAJACE=R3636433843; path=/
+Connection=close
+Date=Mon, 05 Nov 2012 19:32:14 GMT
+Server=Microsoft-IIS/6.0
+p3p=CP="DEVa TAIa CURa STA NAV COM PUR ADMa IND OUR CONa"
+X-Powered-By=ASP.NET
+Content-Type=text/html; charset=ISO-8859-1
+Content-Language=en-US
+Set-Cookie=JSESSIONID=0000MyOaelz9wdO8ZWzzrGtL1rO:167dogu2e; Path=/
+Server=WebSphere Application Server/7.0
+Expires=Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control=no-cache="set-cookie, set-cookie2"

@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=A08CCBC6999CCD9A66BAB8BD5C094479; Path=/
+Set-Cookie=dmid=d20956b6-0a5c-5842-2cee-1aa21b26c291; Expires=Wed, 20-Sep-2017 19:25:58 GMT; Path=/
+Set-Cookie=user="o=1713&l=dir"; Version=1; Domain=.adrivingneed.com; Path=/
+Set-Cookie=oo=1713; Domain=.adrivingneed.com; Expires=Mon, 05-Nov-2012 19:55:58 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:25:57 GMT

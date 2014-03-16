@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:34:46 GMT
+Server=Apache
+Cache-Control=private
+Content-Type=text/html;charset=UTF-8
+Set-Cookie=cu.wz=0; Domain=.myhealthanswers.co.uk; Expires=Tue, 05-Nov-2013 19:34:46 GMT; Path=/
+Set-Cookie=seoQuizzGSL=2; Domain=www.myhealthanswers.co.uk; Path=/
+Set-Cookie=oo=20; Domain=.myhealthanswers.co.uk; Expires=Mon, 05-Nov-2012 20:04:46 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.myhealthanswers.co.uk; Expires=Tue, 05-Nov-2013 19:34:46 GMT; Path=/
+Set-Cookie=user=o=20&l=dir; Domain=.myhealthanswers.co.uk; Path=/
+Keep-Alive=timeout=30, max=9
+Connection=Keep-Alive
+Transfer-Encoding=chunked

@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:36:00 GMT
+Server=Server
+pragma=no-cache
+x-amz-id-1=0TC2SEAKP26FAM1JR904
+x-sap-pg=book_display_on_website
+cache-control=no-cache
+x-frame-options=SAMEORIGIN
+expires=-1
+x-amz-id-2=yezietF3OFYKKufJKcA0lQxpnqbhr4f7VJGst0sc7I4GF7pZ+0Eqfpfk48bb6yq/
+Vary=Accept-Encoding,User-Agent
+Content-Type=text/html; charset=ISO-8859-15
+Set-cookie=session-id-time=2082787201l; path=/; domain=.amazon.ca; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie=session-id=000-0000000-0000000; path=/; domain=.amazon.ca; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding=chunked

@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:32:50 GMT
+Server=Apache/2.2.15 (Fedora)
+Accept-Ranges=bytes
+Cache-Control=max-age=86400
+Expires=Tue, 06 Nov 2012 19:32:50 GMT
+Vary=Accept-Encoding,User-Agent
+Keep-Alive=timeout=5, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

@@ -1,0 +1,19 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=private
+Cteonnt-Length=121351
+Content-Type=text/html; charset=utf-8
+Server=Microsoft-IIS/7.5
+X-AspNet-Version=2.0.50727
+X-Powered-By=ASP.NET
+X-SRV=PC-KOBOWEB-004
+X-Version=69623
+Date=Mon, 05 Nov 2012 19:35:38 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=ASP.NET_SessionId=cqkhi5450u2so0uliiackri1; path=/; HttpOnly
+Set-Cookie=session=sessionid=5a113fd7-57d8-4b7b-9df4-d60c3f48d1c3&searchdiscriminator=0.69560914332774&platformid=00000000-0000-0000-0000-ffffffff0000&affiliateid=514c8b9a-1fd8-4e35-9ffb-907fef14eee2&partnerid=00000000-0000-0000-0000-000000000001&merchcountry=US&country=US&usehistory=true; domain=.kobobooks.com; path=/
+Set-Cookie=persistent=originsessionid=5a113fd7-57d8-4b7b-9df4-d60c3f48d1c3&culture=en; domain=.kobobooks.com; expires=Wed, 05-Dec-2012 19:35:37 GMT; path=/
+Set-Cookie=version=d07735718c67f3d105d93c0cd8b831d1bb2fdbc9; domain=.kobobooks.com; expires=Tue, 06-Nov-2012 19:35:37 GMT; path=/
+Set-Cookie=pwspid=00000000-0000-0000-0000-ffffffff0000; domain=.kobobooks.com; path=/
+Set-Cookie=pwspid=00000000-0000-0000-0000-ffffffff0000; domain=.kobobooks.com; path=/

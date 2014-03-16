@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:26:24 GMT
+Server=Apache/2.2.23
+Set-Cookie=PHPSESSID=bd0bb83be7d9f1fd76978c4b21b96e7b; path=/; domain=.moviemistakes.com
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Set-Cookie=mmvisit=2012-11-05+14%3A26%3A24; expires=Wed, 05-Dec-2012 19:26:24 GMT; path=/; domain=.moviemistakes.com
+Set-Cookie=today=2012-11-05+14%3A26%3A24; expires=Tue, 06-Nov-2012 19:26:24 GMT; path=/; domain=.moviemistakes.com
+Vary=Accept-Encoding
+Keep-Alive=timeout=5, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html

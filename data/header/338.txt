@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Jetty(7.2.2.v20101205)
+Expires=Thu, 01-Jan-1970 00:00:00 GMT
+Content-Type=text/html;charset=UTF-8
+RTSS=1-1309-2
+Date=Mon, 05 Nov 2012 19:34:36 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=SSLB=1; path=/; domain=.barnesandnoble.com
+Set-Cookie=JSESSIONID=9khw8b27mvjmfpmo6s4wz4lbpwbflite121352144076132;Path=/
+Set-Cookie=pds%5Flife=d=AQDMHfAzqxN%2Fr6UzR%2FTGz%2Bdk%2BZe%2F0P8Ma%2FVqj%2B%2BCvjY4cO5kNj0EGZ%2Fl9pjvxERCJtQ%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Sat, 04-Nov-2017 19:34:36 GMT
+Set-Cookie=userid=R90kTGRRqV;Path=/;Domain=.barnesandnoble.com;Expires=Sat, 04-Nov-2017 19:34:36 GMT
+Set-Cookie=pds%5Fsess=d=AQBMXbqJgSMPtMlk60on6xFlLjxt0OTHZMIPZ%2FjzAc5AmCkzto0g5urHTeFLe5RtGi8%3D&v=5;Path=/;Domain=.barnesandnoble.com

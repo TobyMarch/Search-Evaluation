@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:26:21 GMT
+Server=Apache
+Content-Type=text/html;charset=UTF-8
+tr-request-id=UJgS3gplKPMAADH-3QcAAABa
+from-tr=tr03dub.eu.askjeeves.info
+Cache-Control=private
+Set-Cookie=cu.wz=0; Domain=.ask.com; Expires=Tue, 05-Nov-2013 19:26:22 GMT; Path=/
+Set-Cookie=seoQuizzGSL=2; Domain=uk.ask.com; Path=/
+Set-Cookie=oo=420; Domain=.ask.com; Expires=Mon, 05-Nov-2012 19:56:22 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.ask.com; Expires=Tue, 05-Nov-2013 19:26:22 GMT; Path=/
+Set-Cookie=user=o=420&l=dir; Domain=.ask.com; Path=/
+Keep-Alive=timeout=30, max=9
+Connection=Keep-Alive
+Transfer-Encoding=chunked

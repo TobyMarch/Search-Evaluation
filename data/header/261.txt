@@ -1,0 +1,20 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Retry-After=180
+Last-Modified=Mon, 05 Nov 2012 18:58:12 GMT
+ETag="51803d-cab6-4cdc411289900"
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires=Sun, 19 Nov 1978 05:00:00 GMT
+X-Powered-By=PleskLin
+MS-Author-Via=DAV
+Content-Type=text/html; charset=utf-8
+X-Varnish-Debug-TTL=900.000
+Content-Length=51894
+Date=Mon, 05 Nov 2012 19:33:48 GMT
+X-Varnish=1327719744 1327682504
+Via=1.1 varnish
+Connection=keep-alive
+X-Varnish-Cache=HIT Varnish (3)
+X-Varnish-Debug-Hits=3
+X-Varnish-Debug-Age=218
+Age=0

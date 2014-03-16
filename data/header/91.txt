@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Cache-Control=private
+Content-Type=text/html;charset=UTF-8
+Date=Mon, 05 Nov 2012 19:27:48 GMT
+Content-Length=31305
+Connection=keep-alive
+Set-Cookie=sid=UJgTNELreXwFR3Ud; Domain=reference.com; Expires=Mon, 05-Nov-2012 19:57:48 GMT; Path=/
+Set-Cookie=cu.wz=0; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:27:48 GMT; Path=/
+Set-Cookie=recsrch=watch+shrek+2+for+free; Domain=reference.com; Expires=Sun, 03-Feb-2013 19:27:48 GMT; Path=/
+Set-Cookie=dcc=*~*~*~*~*~*~*~*~; Domain=reference.com; Expires=Tue, 05-Nov-2013 19:27:48 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:27:48 GMT; Path=/
+Set-Cookie=bid=UJgTNELreXwwpOkr; Domain=reference.com; Expires=Wed, 05-Nov-2014 19:27:48 GMT; Path=/

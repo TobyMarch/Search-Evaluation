@@ -1,0 +1,22 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2.19 (Win32) mod_ssl/2.2.19 OpenSSL/1.0.0d PHP/5.3.11
+X-Powered-By=PHP/5.3.11
+X-Drupal-Cache=HIT
+Etag="1352143833-0"
+Content-Language=en
+Link=</philpedia/abba-music>; rel="canonical",</philpedia/abba-music>; rel="shortlink"
+X-Generator=Drupal 7 (http://drupal.org)
+Cache-Control=public, max-age=0
+Last-Modified=Mon, 05 Nov 2012 19:30:33 +0000
+Expires=Sun, 19 Nov 1978 05:00:00 GMT
+Vary=Cookie,Accept-Encoding,User-Agent
+Content-Type=text/html; charset=utf-8
+X-Backend=web01
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:30:58 GMT
+X-Varnish=2051746321
+Age=0
+Via=1.1 varnish
+Connection=keep-alive
+Set-Cookie=nomobile=true; path=/;
+X-Varnish-Cache=MISS

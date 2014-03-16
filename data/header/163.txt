@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Content-Type=text/html;charset=UTF-8
+Date=Mon, 05 Nov 2012 19:29:37 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=JSESSIONID=D094E8967EFEB3B1C1A76FD6E1CBDF93; Path=/
+Set-Cookie=dmid=d20cad50-0a5c-583e-0fdf-acc41d4340cb; Expires=Wed, 20-Sep-2017 19:29:37 GMT; Path=/
+Set-Cookie=user="o=41647999&l=dir"; Version=1; Domain=.ask.com; Path=/
+Set-Cookie=oo=41647999; Domain=.ask.com; Expires=Mon, 05-Nov-2012 19:59:37 GMT; Path=/

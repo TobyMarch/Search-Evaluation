@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Date=Mon, 05 Nov 2012 18:47:25 GMT
+Server=Apache/2.2.3 (Red Hat)
+X-Powered-By=PHP/5.3.14
+Vary=Accept-Encoding
+Content-Type=text/html; charset=UTF-8
+X-Cache=MISS from tul1wtsppxy03.corporate.local
+Age=2619
+Content-Length=81119
+X-Cache=HIT from tul1wtsppxy01.corporate.local
+Connection=keep-alive

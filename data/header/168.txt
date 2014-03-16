@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Cache-Control=private
+Content-Type=text/html;charset=UTF-8
+Date=Mon, 05 Nov 2012 19:29:50 GMT
+Content-Length=31639
+Connection=keep-alive
+Set-Cookie=sid=UJgTrUC9Y9tYn6GN; Domain=reference.com; Expires=Mon, 05-Nov-2012 19:59:49 GMT; Path=/
+Set-Cookie=cu.wz=0; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:29:49 GMT; Path=/
+Set-Cookie=recsrch=michael+jackson; Domain=reference.com; Expires=Sun, 03-Feb-2013 19:29:49 GMT; Path=/
+Set-Cookie=dcc=*~*~*~*~*~*~*~*~; Domain=reference.com; Expires=Tue, 05-Nov-2013 19:29:49 GMT; Path=/
+Set-Cookie=accepting=1; Domain=.reference.com; Expires=Tue, 05-Nov-2013 19:29:49 GMT; Path=/
+Set-Cookie=bid=UJgTrUC9Y9tWxswy; Domain=reference.com; Expires=Wed, 05-Nov-2014 19:29:49 GMT; Path=/

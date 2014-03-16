@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2.9 (Debian) PHP/5.2.17-0.dotdeb.0 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g
+Last-Modified=Mon, 05 Nov 2012 11:10:30 GMT
+ETag="31c8cfd0-1676-4cdbd888df0e6"
+X-Head=RHINO-front-web11
+Content-Type=text/html; charset=utf-8
+X-Varnish=152016887 152016880
+Expires=Mon, 05 Nov 2012 19:30:28 GMT
+Cache-Control=max-age=0, no-cache, no-store
+Pragma=no-cache
+Date=Mon, 05 Nov 2012 19:30:28 GMT
+Content-Length=5750
+Connection=keep-alive

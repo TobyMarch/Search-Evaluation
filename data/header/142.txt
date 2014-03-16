@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:31:24 GMT
+Server=Apache
+Set-Cookie=validation_key=5c589e036cd47caab90ade5d57d87407; expires=Wed, 05-Dec-2012 19:31:24 GMT; path=/
+Vary=Accept-Encoding,User-Agent
+Keep-Alive=timeout=5, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

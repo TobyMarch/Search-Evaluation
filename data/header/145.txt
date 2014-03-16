@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Content-Length=59346
+Content-Type=text/html;charset=UTF-8
+Set-Cookie=tmg_authz_session=844b6bfb-2534-4527-8db9-09a0e3f523e3:node3;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=2176249
+Set-Cookie=tmg_web_trends=meter_viewed_count:1,meter_updated:1;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=3600
+ETag=9540649-1352143749369
+Content-Language=en-GB
+Expires=Mon, 05 Nov 2012 19:29:10 GMT
+Cache-Control=max-age=0, no-cache, no-store
+Pragma=no-cache
+Date=Mon, 05 Nov 2012 19:29:10 GMT
+Connection=keep-alive

@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Set-Cookie=cookie=R1338846789; path=/
+Cache-Control=private
+Content-Length=103592
+Content-Type=text/html
+Server=Microsoft-IIS/7.5
+Set-Cookie=ASPSESSIONIDSSBDBBAQ=APJBEDFDDCJBHGGPNCFMMIOJ; path=/
+X-Powered-By=ASP.NET
+Date=Mon, 05 Nov 2012 19:28:42 GMT

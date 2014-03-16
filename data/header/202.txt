@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=no-cache, must-revalidate, proxy-revalidate
+Pragma=no-cache
+Content-Type=text/html; charset=utf-8
+Expires=-1
+Server=Microsoft-IIS/7.5
+X-Server=b33fc9e9b0d70344d2c7472a2a34e2b73006a7355c162bf9
+X-Frame-Options=SAMEORIGIN
+X-AspNet-Version=4.0.30319
+Set-Cookie=MSCulture=IP=64.189.99.219&IPCulture=en-US&PreferredCulture=en-US&PreferredCulturePending=&Country=VVM=&ForcedExpiration=634877118517227142&timeZone=0&myStuffDma=&myStuffMarket=&USRLOC=QXJlYUNvZGU9NjA3JkNpdHk9SXRoYWNhJkNvdW50cnlDb2RlPVVTJkNvdW50cnlOYW1lPVVuaXRlZCBTdGF0ZXMmRG1hQ29kZT01NTUmTGF0aXR1ZGU9NDIuNDA3MiZMb25naXR1ZGU9LTc2LjUxNTkmUG9zdGFsQ29kZT0xNDg1MCZSZWdpb25OYW1lPU5ZJkxvY2F0aW9uSWQ9MA==&UserFirstVisit=1; domain=.myspace.com; expires=Mon, 12-Nov-2012 19:30:51 GMT; path=/
+Set-Cookie=SessionDDF2=v4E+bnA5dvqQ2kRAeuh+j14f/lmeHg2Grm1K2q9Ial2Ji5fy+7z1AGIIXMJyl2C1q9Gb8d3nzhiSEk5tlesKrA==; domain=.myspace.com; expires=Fri, 05-Nov-2032 18:30:51 GMT; path=/
+Set-Cookie=MSCOUNTRY=US; domain=.myspace.com; expires=Mon, 12-Nov-2012 19:30:51 GMT; path=/
+X-PoweredBy=Charlie Sheen's Tiger Blood
+Date=Mon, 05 Nov 2012 19:30:53 GMT
+Content-Length=135093

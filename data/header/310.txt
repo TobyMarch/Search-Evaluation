@@ -1,0 +1,17 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Content-Type=text/html; charset=utf-8
+Cache-Control=public, max-age=86400
+Expires=Sun, 11 Mar 1984 12:00:00 GMT
+Vary=Cookie,Accept-Encoding
+ETag="1352136804"
+Last-Modified=Mon, 05 Nov 2012 17:33:24 GMT
+X-AH-Environment=prod
+Content-Length=114721
+Date=Mon, 05 Nov 2012 19:33:56 GMT
+X-Varnish=1490971460 1490838127
+Age=7230
+Via=1.1 varnish
+Connection=keep-alive
+X-Cache=HIT
+X-Cache-Hits=1

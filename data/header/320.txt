@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:34:11 GMT
+Server=Apache
+Last-Modified=Thu, 07 Sep 2006 16:14:41 GMT
+ETag="1aeb4a-289c-41cdf63977e40"
+Accept-Ranges=bytes
+Content-Length=10396
+Vary=Accept-Encoding
+Keep-Alive=timeout=15, max=99
+Connection=Keep-Alive
+Content-Type=text/html

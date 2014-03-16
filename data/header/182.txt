@@ -1,0 +1,7 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:30:14 GMT
+Server=Apache/2.0.49 (Unix) mod_ssl/2.0.49 OpenSSL/0.9.6i DAV/2 mod_fastcgi/2.4.2 PHP/4.3.10 mod_jk/1.2.2
+X-Powered-By=PHP/4.3.10
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=ISO-8859-1

@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=private
+Content-Type=text/html
+Expires=Mon, 05 Nov 2012 19:29:33 GMT
+Date=Mon, 05 Nov 2012 19:30:33 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=SDataS=czJQe6xtJOUTjVd1Rmu5acVgRac31wVT7dbYdDKrNoXs8JV9%21m0er3HXwqcKQMzbZPlKL9TJlnQpRHL58RzGhJrTBkQu1ML%21QdyPJUfD9tNfTcaqGC%3FzFlhZT39FlrNIuW8ENifsq4%3FJCa4uaRK%3FHXShSYnTj%210%3FhFyKIEqbUFy%3FREzKn6F%2E; domain=.cduniverse.com; path=/
+Set-Cookie=SDataP=7Sm9Tp8PkbCuZ%21uVtuipcVVS3E9URbc4y5ZY%3FdmP%21HLx%217bYlwYFAPVzrnRCDl0etw0odK5Q5thrm%3FcvtNS1kCEvPGWoxXthJDn%21Xx6SYhi%21A3de6K85lVXjdSNSY1vK9xV1jT%21%3FS%21wtx7hq8v7buE9R2YaMCzGdgwxRPV1ywM%3FaN2vMys54gt562jsrVilw92oiGni6fyqlllVjx1JjDIZkcaxw%21Xp9i%21rvT6GSU4W4iCe2lBCDzipkn2pcvCwILbz80qW6aHCuhHlIo15KuF%3FSxl3Ao9M%2E; expires=Sat, 05-Nov-2022 18:30:32 GMT; domain=.cduniverse.com; path=/
+Set-Cookie=SKey=ZmBy557TAM6T1tNLukSF%21CZDOJacZCVrWbPY%3F6kctUzRO61r8mgu68uAGadjXCcZyQ%3FnB7dAwDWIbbKgdnrqAC0ioYMT4k4Q; expires=Sat, 05-Nov-2022 18:30:32 GMT; domain=.cduniverse.com; path=/
+Set-Cookie=HTSearchInfoFocusCtrl=0; path=/
+Set-Cookie=TabsSeen=1; path=/
+Set-Cookie=ShipPrefs=Long=%2D76%2E5159&Lat=42%2E4072&CountryCode=US&Zone=1&IPCity=Ithaca&Country=USA; path=/

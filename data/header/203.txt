@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:24:47 GMT
+Server=Apache
+Cache-Control=max-age=600
+Expires=Mon, 05 Nov 2012 19:34:47 GMT
+Keep-Alive=timeout=3, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html

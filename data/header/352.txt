@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=8181B8663C7D8E01DA6F9214CAE2D4BA; Path=/
+Set-Cookie=dmid=d211a879-0a5c-583e-0fdf-acc40015f520; Expires=Wed, 20-Sep-2017 19:35:03 GMT; Path=/
+Set-Cookie=user="o=10874&l=dir"; Version=1; Domain=.gardenandhearth.com; Path=/
+Set-Cookie=oo=10874; Domain=.gardenandhearth.com; Expires=Mon, 05-Nov-2012 20:05:03 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:35:03 GMT

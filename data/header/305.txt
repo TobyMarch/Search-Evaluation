@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2.14 (Ubuntu)
+X-Powered-By=PHP/5.3.2-1ubuntu4.9
+Last-Modified=Mon, 05 Nov 2012 19:11:46 +0000
+Vary=Cookie,Accept-Encoding
+ETag="1352142706"
+Content-Type=text/html; charset=utf-8
+X-Varnish=458373529 458285115
+Date=Mon, 05 Nov 2012 19:33:49 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Cache-Control=public, max-age=600
+Expires=Sun, 11 Mar 1984 12:00:00 GMT

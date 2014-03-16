@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=max-age=10
+Date=Mon, 05 Nov 2012 19:28:26 GMT
+Content-Type=text/html; charset=UTF-8
+Last-Modified=Mon, 05 Nov 2012 19:07:56 GMT
+Accept-Ranges=bytes
+ETag="0ceebdc88bbcd1:e1f"
+Server=Microsoft-IIS/6.0
+FROM=N7DOLDISWEB01
+Set-Cookie=SWID=5351DD00-CF4A-4BF7-AF12-54CBF7832849; path=/; expires=Mon, 05-Nov-2032 19:28:26 GMT; domain=.go.com;
+Cache-Expires=Mon, 05 Nov 2012 19:11:16 GMT
+Content-Length=7239

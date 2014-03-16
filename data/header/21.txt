@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+P3P=CP="ALL DSP COR NID CURa TAIa OTPi OUR BUS UNI INT PRE"
+Expires=-1
+Vary=Accept-Encoding,Cookie
+X-ServerNickName=Wolverine
+Content-Type=text/html; charset=utf-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:25:56 GMT
+Age=8506
+Connection=keep-alive

@@ -1,0 +1,16 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:35:25 GMT
+Server=Server
+pragma=no-cache
+x-amz-id-1=04R74A9YW0G9S4WTSAC5
+p3p=policyref="http://www.amazon.co.uk/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg=book_display_on_website
+cache-control=no-cache
+x-frame-options=SAMEORIGIN
+expires=-1
+x-amz-id-2=eQ4+w200s5AhgCPOYDA8n+rnq2kw4Fq8JeHHVbfST8qdVYnS1rUvcRP8SgYBYXXu
+Vary=Accept-Encoding,User-Agent
+Content-Type=text/html; charset=ISO-8859-1
+Set-cookie=session-id-time=2082758401l; path=/; domain=.amazon.co.uk; expires=Tue, 01-Jan-2036 00:00:01 GMT
+Set-cookie=session-id=000-0000000-0000000; path=/; domain=.amazon.co.uk; expires=Tue, 01-Jan-2036 00:00:01 GMT
+Transfer-Encoding=chunked

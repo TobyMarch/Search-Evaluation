@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:26:56 GMT
+Server=Apache
+X-Pingback=http://redlettermedia.com/wordpress/xmlrpc.php
+Vary=Accept-Encoding
+Keep-Alive=timeout=5, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Set-Cookie=JSESSIONID=01867E3949F7002A8687A1C07345874F; Path=/
+Set-Cookie=dmid=d20fbec2-0a5c-583e-0fdf-acc4fce56845; Expires=Wed, 20-Sep-2017 19:32:58 GMT; Path=/
+Set-Cookie=user="o=10872&l=dir"; Version=1; Domain=.life123.com; Path=/
+Set-Cookie=oo=10872; Domain=.life123.com; Expires=Mon, 05-Nov-2012 20:02:58 GMT; Path=/
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Date=Mon, 05 Nov 2012 19:32:58 GMT

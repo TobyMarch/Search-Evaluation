@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Mon, 05 Nov 2012 19:33:56 GMT
+Server=Apache/2.2.17 (Win32) PHP/5.3.4
+X-Powered-By=PHP/5.3.4
+Expires=Tue, 01 Jan 2002 00:00:00 GMT
+Last-Modified=Mon, 05 Nov 2012 19:33:56 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Vary=Accept-Encoding
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=iso-8859-1;
